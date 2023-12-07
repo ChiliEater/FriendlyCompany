@@ -1,6 +1,6 @@
 {
     "name": "FriendlyCompany",
-    "decription": "Lethal Company modpack for me and my friends.",
+    "description": "Lethal Company modpack for me and my friends.",
     "version_number": "1.0.0",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
