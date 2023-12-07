@@ -11,3 +11,9 @@
 ## 1.1.0
 
 - Added a bunch of mods
+
+## 1.2.0
+
+- Added some mods
+  - Skinwalker
+  - More Company
