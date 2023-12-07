@@ -1,7 +1,7 @@
 {
     "name": "FriendlyCompany",
     "description": "Lethal Company modpack for me and my friends.",
-    "version_number": "1.0.1",
+    "version_number": "1.1.0",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
         "Evaisa-HookGenPatcher-0.0.5",
@@ -11,9 +11,40 @@
         "tinyhoot-ShipLoot-1.0.0",
         "Drakorle-MoreItems-1.0.1",
         "5Bit-FPSSpectate-1.0.1",
+        "FlipMods-LetMeLookDown-1.0.1",
+        "Zduniusz-24HourClock-1.0.0",
 
         "Badham_Mods-CirnoFumoScrap-1.2.1",
-        "femboytv-DeepRockPosters-1.1.1"
+        "femboytv-DeepRockPosters-1.1.1",
+        "x753-Mimics-1.1.1",
+        "AllToasters-SpectateEnemies-1.3.0",
+        "KoderTeh-Boombox_Controller-1.0.6",
+        "joe1359-LethalExtras-1.0.4",
+        "PanHouse-LethalClunk-1.1.1",
+        "TeamClark-CombineEliteSuit-1.0.2",
+        "quackandcheese-MirrorDecor-1.1.4",
+
+        "Rattenbonkers-TVLoader-1.0.3",
+        "SussyBakaCrew-SussyBaka_Videos-1.2.0",
+        "BeansDev-Neofetch-1.0.1",
+        "KlutzyBubbles-VBCan-1.0.0",
+        "NotAtomicBomb-TerminalApi-1.3.1",
+        "NotAtomicBomb-Terminal_History-1.0.0",
+        "NotAtomicBomb-Terminal_Clock-1.0.5",
+        "malco-Lategame_Upgrades-2.1.0",
+        "Evaisa-LethalThings-0.5.3",
+
+        "x753-More_Suits-1.3.3",
+        "Verity-TooManySuits-1.0.3",
+        "ManiaBania-1000_Quota_Stare-1.0.0",
+        "GorillaBeast-WalterWhite-0.9.9",
+        "Norman-GlowStickSuits-1.0.2",
+        "ShadowRocks2-MaidOutfitR2MM-1.0.0",
+        "ViViKo-WheresWaldoSuit-1.0.1",
+        "akkowo-More_suit_colors_for_more_suits-1.0.0",
+        "ExioMadeThis-Ahegao_Suit-1.0.0",
+        "QuFix-Lidl_Suit-1.0.3",
+        "ViViKo-AmongUsSuits-1.0.1"
     ],
     "website_url": "https://github.com/ChiliEater/FriendlyCompany"
 }
