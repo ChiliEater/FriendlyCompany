@@ -17,3 +17,8 @@
 - Added some mods
   - Skinwalker
   - More Company
+
+## 1.3.0
+
+- Removed LethalClunk
+- Updated mods
