@@ -22,3 +22,8 @@
 
 - Removed LethalClunk
 - Updated mods
+
+## 1.4.0
+
+- Remove outdated mods
+- Update mods to work with v45
