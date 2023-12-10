@@ -31,3 +31,7 @@
 ## 1.4.1
 
 - Remove MirrorDecor due to incompatibility
+
+## 1.5.0
+
+- Added extra slots
