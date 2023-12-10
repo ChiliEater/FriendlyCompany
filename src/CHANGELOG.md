@@ -27,3 +27,7 @@
 
 - Remove outdated mods
 - Update mods to work with v45
+
+## 1.4.1
+
+- Remove MirrorDecor due to incompatibility

@@ -1,7 +1,7 @@
 {
     "name": "FriendlyCompany",
     "description": "Lethal Company modpack for me and my friends.",
-    "version_number": "1.4.0",
+    "version_number": "1.4.1",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
         "Evaisa-HookGenPatcher-0.0.5",
@@ -10,7 +10,7 @@
         "tinyhoot-ShipLoot-1.0.0",
         "Zduniusz-24HourClock-1.0.0",
         "notnotnotswipez-MoreCompany-1.7.1",
-        "2018-LC_API-2.1.1",
+        "2018-LC_API-2.1.2",
         "femboytv-LethalPosters-1.2.0",
         "femboytv-LethalPaintings-1.2.0",
 
@@ -18,7 +18,6 @@
         "femboytv-DeepRockPosters-1.2.1",
         "x753-Mimics-1.1.2",
         "AllToasters-SpectateEnemies-1.4.0",
-        "quackandcheese-MirrorDecor-1.1.4",
         "RugbugRedfern-Skinwalkers-2.0.0",
         
         "Rattenbonkers-TVLoader-1.1.0",
