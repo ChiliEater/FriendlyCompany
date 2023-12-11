@@ -35,3 +35,7 @@
 ## 1.5.0
 
 - Added extra slots
+
+## 1.5.1
+
+- Updated mods
