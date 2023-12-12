@@ -39,3 +39,9 @@
 ## 1.5.1
 
 - Updated mods
+
+## 1.6.0
+
+- LateCompany returns
+- Removed Mimics
+- Updated mods
