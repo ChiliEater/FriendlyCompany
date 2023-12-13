@@ -45,3 +45,14 @@
 - LateCompany returns
 - Removed Mimics
 - Updated mods
+
+## 1.7.0
+
+- Added
+  - MirrorDecor
+  - Helmet Cameras
+  - GorillaSuits
+  - CommandHandler
+  - YoutubeBoombox
+  - MoreItems
+- General system stability improvements to enhance the user's experience.
