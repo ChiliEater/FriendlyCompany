@@ -55,4 +55,16 @@
   - CommandHandler
   - YoutubeBoombox
   - MoreItems
+
+## 1.8.0
+
+- Added mods
+  - BetterEmotes
+  - CrossHair
+  - GopnikSuits
+  - LethalProgression
+  - HEV Suit
+  - Low Budged One Piece Suits
+  - MaxwellPatch
+  - Kaufland
 - General system stability improvements to enhance the user's experience.
