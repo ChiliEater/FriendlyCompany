@@ -1,0 +1,9 @@
+#!/bin/fish
+
+set tcli dotnet tcli
+
+if test ! -d "dist"
+    mkdir "dist"
+end
+
+$tcli publish --token "$argv[1]"
