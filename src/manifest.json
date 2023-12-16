@@ -1,12 +1,12 @@
 {
     "name": "FriendlyCompany",
     "description": "Lethal Company modpack for me and my friends.",
-    "version_number": "1.8.0",
+    "version_number": "1.8.1",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
         "Evaisa-HookGenPatcher-0.0.5",
-        "Evaisa-LethalLib-0.6.2",
-        "FlipMods-HotbarPlus-1.3.2",
+        "Evaisa-LethalLib-0.6.3",
+        "FlipMods-HotbarPlus-1.3.3",
         "tinyhoot-ShipLoot-1.0.0",
         "Zduniusz-24HourClock-1.0.0",
         "notnotnotswipez-MoreCompany-1.7.2",
@@ -31,8 +31,8 @@
         "malco-Lategame_Upgrades-2.6.1",
         "Evaisa-LethalThings-0.7.1",
         "Blorb-WeatherMultipliers-1.0.0",
-        "steven4547466-YoutubeBoombox-1.4.1",
-        "KlutzyBubbles-BetterEmotes-1.2.1",
+        "steven4547466-YoutubeBoombox-1.5.0",
+        "KlutzyBubbles-BetterEmotes-1.2.2",
         "CTNOriginals-CrossHair-1.0.4",
         "AriDev-MaxwellPatch-1.0.0",
         

@@ -67,4 +67,8 @@
   - Low Budged One Piece Suits
   - MaxwellPatch
   - Kaufland
+- Updated mods
+
+## 1.8.1
+
 - General system stability improvements to enhance the user's experience.
