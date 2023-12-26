@@ -79,4 +79,8 @@
 
 ## 1.8.3
 
+- Updated mods
+
+## 1.8.4
+
 - General system stability improvements to enhance the user's experience.
