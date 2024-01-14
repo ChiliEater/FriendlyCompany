@@ -84,3 +84,8 @@
 ## 1.8.4
 
 - General system stability improvements to enhance the user's experience.
+
+## 1.9.0
+
+- Updated mods
+- Added HDLethalCompany
