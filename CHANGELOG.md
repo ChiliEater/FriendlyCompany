@@ -83,7 +83,7 @@
 
 ## 1.8.4
 
-- General system stability improvements to enhance the user's experience.
+- Updated mods
 
 ## 1.9.0
 
@@ -95,3 +95,7 @@
 
 - Removed BetterEmotes
 - Added TooManyEmotes
+
+## 1.10.1
+
+- General system stability improvements to enhance the user's experience.
