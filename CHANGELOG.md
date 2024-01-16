@@ -98,4 +98,8 @@
 
 ## 1.10.1
 
+- Updated mods
+
+## 1.10.2
+
 - General system stability improvements to enhance the user's experience.
