@@ -89,3 +89,9 @@
 
 - Updated mods
 - Added HDLethalCompany
+- Removed YoutubeBoombox (Deprecated)
+
+## 1.10.0
+
+- Removed BetterEmotes
+- Added TooManyEmotes
