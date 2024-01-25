@@ -102,4 +102,22 @@
 
 ## 1.10.2
 
+- Updated mods
+
+## 1.11.0
+
+- Mods added
+  - LethalExpansion
+  - LethalExpansionCore
+  - Orion
+  - ExpansionAssets
+  - Aquatis
+  - NeedyCats
+  - GokuBracken
+  - LandMineFartReverb
+  - Peaches_Castle
+  - JigglePhysicsPlugin
+  - MoreHead
+  - RollingGiant
+  - FreeJester
 - General system stability improvements to enhance the user's experience.
