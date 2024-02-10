@@ -121,3 +121,9 @@
   - RollingGiant
   - FreeJester
 - General system stability improvements to enhance the user's experience.
+
+## 1.12.0
+
+- Mods added
+  - Backrooms
+  - Atlas_Abyss
